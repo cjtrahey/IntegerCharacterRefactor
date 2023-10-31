@@ -1,9 +1,3 @@
-# Christopher-John Trahey
-# Chapter 6 Homework (Part II)
-# October 16, 2023
-# This program refactors the previous assignment. It provides the same service without redundant code.
-# Developed using Visual Studio Code.
-
 # Print Menu Function Here
 
 def print_menu():
